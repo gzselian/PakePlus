@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<title>english story</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<style type="text/css">
+			@font-face{
+				font-family:'Alibaba Sans';
+				src:url(fonts/AlibabaSans-Regular_KS.otf)format("opentype");
+			}
+		</style>
+		<script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
+		<script type="text/javascript" src="js/standard2.js"></script>
+		<script type="text/javascript" src="js/subtitleDB.js"></script>
+		<script type="text/javascript" src="../../../bookDb.js"></script>
+		<style>
+			html{
+				font-size:25px;
+			}
+			body{
+				margin: 0 auto;
+			}
+			.scaleable-wrapper
+			{
+				resize: both;
+				position: relative;
+			}
+			.very-specific-design
+			{
+				width: 1920px;
+				height: 1080px;
+				padding: 0px;
+				position: relative;
+				left: 50%;
+				top: 50%;
+				background-size: 100% 100%;
+				background-repeat: no-repeat;
+				transform: translate(-50%, -50%);
+				transform-origin: center center;
+				/* padding-left: 25px;
+				padding-right: 25px; */
+				font-size:1.0rem;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="scaleable-wrapper">
+			<div class="very-specific-design" id="wraper">
+				
+				<div class="tab container">
+					<div class="mov88 mov88Screen">
+						<video id="media" class="mediaObj mediaScreen" src="../../mov/u1_Explore.mp4"> 
+						</video>
+						<div id="word" class="wordcontain"></div>
+					</div>
+					
+					<div class="playbar" style="display: block;">
+						<div class="playwapper" id="normal">
+							<div class="toolobj btn_play" title="播放/暂停" id="ztbf">
+							</div>
+							<!-- <div class="toolobj btn-stop" title="停止" id="btnStop">
+								
+							</div> -->
+							<div class="toolobj btnprev" title="上一句">
+							</div>
+							<div class="toolobj btnnext" title="下一句">
+							</div>
+							<div class="toolobj programbar">
+								<div class="timebar" id="pBar">
+								</div>
+							</div>
+							<div class="toolobj movtimes">
+									<span id="nTime">
+										00:00
+									</span>
+									/
+									<span id="aTime">
+										00:00
+									</span>
+								</div>
+							<div class="toolobj btnword" title="字幕">
+							</div>
+							<!-- sz -->
+							<div id="btnwordzh" class="toolobj btnwordzh" title="中文" style="display: none;">
+							    <!-- 这里是你的内容 -->
+							</div>
+							<div class="toolobj btnactive" title="角色扮演">
+							</div>
+<!-- 							<div class="toolobj btnfullscreen" title="全屏">
+							</div> -->
+						</div>
+						<div class="playwapper" id="playmode" style="display: none;">
+							<div class="toolobj btn_play btn_pause" title="播放/暂停" id="ztbf_act">
+							</div>
+							<div class="toolobj btn_act_redo" title="重新扮演">
+							</div>
+							<div class="toolobj btn_act_back" title="返回"></div>
+						</div>
+					</div>
+					
+					<div class="maskWin" style="display: none;"></div>
+					<div class="showact_dialog">
+						<div class="showmask">
+							<div class="actbg">
+								<div class="act_close">
+									<div class="act_btn_close">
+									</div>
+								</div>
+								<div class="rolelist">
+									<div class="singlerole">
+										<div class="role_img">
+											<img src="image/role_01.png" alt="">
+										</div>
+										<div class="role_check "></div>
+									</div>
+										
+									
+								</div>
+								<div class="act_queren">
+									<div class="act_ok" title="开始扮演">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<audio id="audio">
+						<source src="source/01bg.mp3"></source>
+						<span>你的浏览器不支持播放</span> 
+					</audio>
+				</div>
+			</div>
+		</div>
+		<script src="js/audio2024.js"></script>
+	</body>
+	
+</html>
