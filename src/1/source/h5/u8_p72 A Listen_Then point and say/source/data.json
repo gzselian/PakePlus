@@ -1,0 +1,62 @@
+{
+	"status": "success",
+	"worddc": [
+	    {
+			"id": 0,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/00.mp3",
+			"video": "source/sound/dc/00.mp4"
+		},{
+			"id": 1,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/01.mp3",
+			"video": "source/sound/dc/01.mp4",
+		},{
+			"id": 2,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/02.mp3",
+			"video": "source/sound/dc/02.mp4",
+		},{
+			"id": 3,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/03.mp3",
+			"video": "source/sound/dc/03.mp4",
+		},{
+			"id": 4,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/04.mp3",
+			"video": "source/sound/dc/04.mp4",
+		},{
+			"id": 5,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/05.mp3",
+			"video": "source/sound/dc/05.mp4",
+		},{
+			"id": 6,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/06.mp3",
+			"video": "source/sound/dc/06.mp4",
+		},{
+			"id": 7,
+			"wordEn": "",
+			"wordEnGd": "",
+			"wordCh": "###",
+			"sound": "source/sound/dc/07.mp3",
+			"video": "source/sound/dc/07.mp4",
+		}
+	]
+}
