@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style>
+			img,
+			video {
+				/*  image-rendering: pixelated; /* Firefox */
+				image-rendering: crisp-edges;
+				/* Chrome, Opera */
+				*/ video-rendering: pixelated;
+				/* Chrome, Firefox, Opera, Edge (if you use it) */
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="CSS/index.css" />
+		<script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<script type="text/javascript" src="js/index.js"></script>
+		<script type="text/javascript" src="source/data.json?cb=dataJson"></script>
+		<!-- <script src="js/Interface.js"></script> -->
+	</head>
+	<body>
+		<div id="stage" class="wraper zoom">
+			<!-- 子1 -->
+			<!-- <div class="titleClass">
+				<img src="img/images/title.png"/ style="width: auto;height: 50%;margin-right: 10px;">
+				<p style="">Listen and chant.</p>
+			</div> -->
+			<div id="item1" class="item1">
+				<video id="video" src="../../mov/P25 Sounds.mp4" class="videoDiv"></audio>
+			</div>
+			<!-- 子2 -->
+			<!-- <div id="item2" class="item2">
+			</div> -->
+			<div class="item2">
+				<img id="btn_play" src="img/ico/btn_play.png" class="btn_play">
+				<div class="progress" id="progress">
+					<img id="progressBar" src="img/ico/btn_progress.png" class="progressBar" />
+					<img id="progressSeek" src="img/ico/btn_progressSeek.png" class="progressBar" />
+				</div>
+				<div id="timetxt" style="font-size: 18px;font-family: 'Microsoft YaHei', sans-serif;text-shadow: 
+                -1px -1px 0 #fff,  
+                1px -1px 0 #fff,
+                -1px 1px 0 #fff,
+                1px 1px 0 #fff; /* 描边效果 */">00:00 / 00:00</div>
+				<img id="btn_luyin" src="img/ico/btn_luyin1.png" class="btn_play">
+			</div>
+
+		</div>
+
+		<audio id="audio" src="source/video/01bg.mp3"></audio>
+	</body>
+
+	<!-- <script type="text/javascript" src="index.js"></script> -->
+</html>
