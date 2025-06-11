@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'Aliba';
+  src: url('../font/AlibabaSans-Bold_KS.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Aliba_re';
+  src: url('../font/AlibabaSans-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+	/* background-color: antiquewhite; */
+	background-color: white;
+	margin: 0%;
+	max-width: 1280px;
+}
+.wraper {
+	width: 1280px;
+	height: 720px;
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	z-index: 20;
+	margin: 0;
+	
+	/* border: red 1px dashed; */
+	/* 中对齐 */
+	display: flex;
+	justify-content: center;
+	background-color: #fff;
+}
+.zoom {}
+.item1{
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	/* top: 100px; */
+	left: 50%; /* 移到父级元素宽度的一半位置 */
+	transform:translateX(-50%); /* 垂直和水平居中 */
+	z-index: -1;
+	/* border: mediumvioletred 1px dashed; */
+	
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	
+	align-items: center;
+}
+.item2{
+	position: absolute;
+	/* display: flex;
+	position: relative; /* 让子元素绝对定位相对于这个容器 */ 
+	
+	width: 1060px;
+	height: 100px;
+	bottom: 0;
+	/* border: red 1px dashed; */
+	
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: row;
+	
+	align-items: center;
+	left: 50%; /* 移到父级元素宽度的一半位置 */
+	transform:translateX(-50%); /* 垂直和水平居中 */
+	
+	font-family: 'Faktos',sans-serif;
+}
+
+.btn{
+	cursor: pointer;
+	/* background:url(../img/ico/bar_bg.png); */
+}
+.titleImg{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width:292px;
+}
+.videoDiv{
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	z-index: -1; /* 显式设置z-index以确保它在videoDiv之上 */
+	/* top: 100px; */
+	/* border: #000 1px dashed; */
+}
+.btn_play{
+	/* position: absolute; */
+	width: 30px;
+	height: 30px;
+	/* left: 940px;
+	top:570px; */
+	cursor: pointer;
+	
+}
+.progress{
+	/* position: absolute; */
+	margin-top: 10px;
+	width: 800px;
+	height: 24px;
+	/* border: #000 1px dashed; */
+}
+.progressBar{
+	position: absolute;
+	margin-left: -400px;
+	height: 14px;
+	width: 800px;
+	cursor: pointer;
+	border-radius: 20px;
+	overflow: hidden;
+}
+.titleClass{
+	position: absolute;
+	font-size: 33px;
+	/* border: red 1px dashed; */
+	width: auto;
+	top: 10px;
+	left: 10px;
+	padding: 0 10px 0 10px;
+	height: 80px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	flex-direction: row;
+	
+	font-family: 'Aliba',sans-serif;
+}
