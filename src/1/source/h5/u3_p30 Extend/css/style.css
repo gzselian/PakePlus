@@ -1,0 +1,332 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+	background-color: #FFF;
+	overflow: hidden;
+}
+
+.tab
+{
+	position: relative;
+
+}
+.mov88
+{
+	position: absolute;
+	left: 180px;
+	top: 60px;
+	width: 1560px;
+	height: 900px;
+	
+	background-repeat: no-repeat;
+	background-size: contain;
+    /* padding: 20px; background-image: url(../image/tabbg.png);*/
+}
+.mov88Screen
+{
+	left: 0px;
+	top: 0px;
+	width: 1920px;
+	height: 1080px;
+    background-image:none;
+}
+/*#media*/
+.mediaObj
+{
+	width: 1520px;
+	height: 856px;
+	border-radius: 19px;
+    margin-top: 18.5px;
+    margin-left: 19px;
+	/* border: 1px solid red; */
+}
+.mediaScreen
+{
+	width: 1920px;
+	height: 1080px;
+	border-radius: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+/*
+字幕条的设定
+*/
+.wordcontain
+{
+	width: 88%;
+    height: 72px;
+    line-height: 55px;
+    font-family: "alibaba sans";
+    font-size: 64px;
+    background-color: rgba(255,255,255,0.66);
+    text-align: center;
+    position: absolute;
+    color: #000;
+    left: 200px;
+    top: 819px;
+	border-radius: 11px;
+	display: none;
+	left: 50%; /* 移到父级元素宽度的一半位置 */
+	transform:translateX(-50%); /* 垂直和水平居中 */
+}
+.mov88Screen #word
+{
+	top: 908px;
+}
+/*
+ 视频控制条。
+*/
+
+.playbar
+{
+	position: absolute;
+    left: 193px;
+    top: 981px;
+}
+.playwapper
+{
+	display: flex;
+    flex-direction: row;
+    width: 1520px;
+    justify-content: space-between;
+}
+.toolobj
+{
+	display: flex;
+	margin-left: 5px;
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid green; */
+    justify-items: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-right: 5px;
+	cursor: pointer;
+	background-size: contain;
+}
+.programbar
+{
+	flex: 1;
+	background-image: url(../image/btn_progress.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	line-height: 77px;
+
+}
+.movtimes
+{
+	width: 156px;
+	cursor: default;
+}
+.btn_play
+{
+	background-image: url(../image/btn_play.png);
+}
+.btn_pause
+{
+	background-image: url(../image/btn_pause.png);
+}
+.btnprev
+{
+	background-image: url(../image/btn_prev.png);
+	/* background-image: url(../image/btn_next.png);
+	transform:rotate(180deg);
+	 */
+}
+.btnnext
+{
+	background-image: url(../image/btn_next.png);
+}
+.btnprev_dis
+{
+	background-image: url(../image/btn_prev_dis.png);
+	cursor: default;
+}
+.btnnext_dis
+{
+	background-image: url(../image/btn_next_dis.png);
+	cursor: default;
+}
+.btnword
+{
+	background-image: url(../image/btn_zimu.png);
+}
+.btnwordclose
+{
+	background-image: url(../image/btn_zimuclose.png);
+}
+.btnwordzh
+{
+	background-image: url(../image/btn_zh.png);
+}
+.btnwordzhclose
+{
+	background-image: url(../image/btn_zhclose.png);
+}
+.btnactive
+{
+	background-image: url(../image/btn_action.png);
+}
+.btn_kalaok
+{
+	background-image: url(../image/mic.png);
+}
+.btn_kalaok_no
+{
+	background-image: url(../image/mic.png);
+}
+
+.btnfullscreen
+{
+	background-image: url(../image/btn_fullscreen.png);
+}
+.btnfullscreen_ed
+{
+	background-image: url(../image/btn_fullscreen_exit.png);
+}
+.timebar
+{
+	width: 0%;
+	height: 25px;
+	border-radius: 12px;
+	background: linear-gradient(#FF852D,#FF932D);
+}
+
+
+/* 角色扮演的对话框。*/
+
+.maskWin
+{
+	position: absolute;
+	z-index: 20;
+	width: 100%;
+	height: 1080px;
+	background-color: #000;
+	opacity: 0.5;
+}
+.showact_dialog
+{
+	
+	position: absolute;
+    left: 240px;
+    top: 252px;
+	z-index: 21;
+	display: none;
+	/* width: 1560px;
+	height: 900px; */
+}
+
+.actbg
+{
+	background-image: url(../image/dialog_bg.png);
+	width: 1400px;
+	height: 518px;
+}
+
+.rolelist
+{
+	display: flex;
+	/* justify-content: space-evenly;
+	IE不支持，低版本的browser插件不支持。 */
+	justify-content: space-evenly;
+	&:before,&:after{
+		content: "";
+		display: block;
+	}
+	align-items: center;
+	margin-top: 20px;
+	margin-left: 37px;
+    margin-right: 37px;
+}
+.role_img
+{
+	width: 170px;
+	height: 210px;
+	background-color: rgb(0,140,245);
+	border-radius: 5px;
+	padding:5px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-bottom: 10px;
+}
+.role_img img{
+	width: 171px;
+    height: 212px;
+	text-align: center;
+}
+.role_check
+{
+	width: 170px;
+	height: 65px;
+	background-position: center center;
+    background-repeat: no-repeat;
+	background-image: url(../image/check01.png);
+	cursor: pointer;
+}
+.role_check_ed
+{
+	width: 170px;
+	height: 65px;
+	background-image: url(../image/check02.png);
+	background-position: center center;
+    background-repeat: no-repeat;
+	cursor: pointer;
+}
+
+.act_close
+{
+	display: flex;
+    /* align-items: stretch; */
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.act_btn_close
+{
+	width: 70px;
+	height: 70px;
+	/* border: 1px solid red; */
+	cursor: pointer;
+
+}
+/**
+  开始扮演的按钮
+
+*/
+.act_queren
+{
+	display: flex;
+	justify-content: center;
+}
+.act_ok
+{
+	width: 200px;
+	height: 90px;
+	background-image: url(../image/startactbtn.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-top: 13px;
+	cursor: pointer;
+}
+
+
+#playmode{
+	justify-content: center;
+}
+
+.btn_act_redo
+{
+	background-image: url(../image/btn_act_redo.png);
+}
+
+.btn_act_back
+{
+	background-image: url(../image/btnback.png);
+}
+
