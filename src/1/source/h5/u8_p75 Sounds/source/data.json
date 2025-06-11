@@ -1,0 +1,45 @@
+dataJson({
+	"status": "success",
+	"wordlist": [{
+			"id": 0,
+			"wordEn": "an ear",
+			"wordCh": "一只耳朵",
+			"soundPath": "source/sound/WordS01.mp3",
+			"imgPath": "img/img1.png"
+		},
+		{
+			"id": 1,
+			"wordEn": "an eye",
+			"wordCh": "一只眼睛",
+			"soundPath": "source/sound/WordS02.mp3",
+			"imgPath": "img/img2.png"
+		},
+		{
+			"id": 2,
+			"wordEn": "a nose",
+			"wordCh": "一个鼻子",
+			"soundPath": "source/sound/WordS03.mp3",
+			"imgPath": "img/img3.png"
+		},
+		{
+			"id": 3,
+			"wordEn": "a mouth",
+			"wordCh": "一个嘴巴",
+			"soundPath": "source/sound/WordS04.mp3",
+			"imgPath": "img/img4.png"
+		}, {
+			"id": 4,
+			"wordEn": "an ear",
+			"wordCh": "一只耳朵",
+			"soundPath": "source/sound/WordS01.mp3",
+			"imgPath": "img/img1.png"
+		},
+		{
+			"id": 5,
+			"wordEn": "an eye",
+			"wordCh": "一只眼睛",
+			"soundPath": "source/sound/WordS02.mp3",
+			"imgPath": "img/img2.png"
+		}
+	]
+})
