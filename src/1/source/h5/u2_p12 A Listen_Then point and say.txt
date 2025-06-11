@@ -1,0 +1,83 @@
+u2_p12 A Listen_Then point and say/
+u2_p12 A Listen_Then point and say/css/
+u2_p12 A Listen_Then point and say/css/inputStyle.css
+u2_p12 A Listen_Then point and say/css/vssver2.scc
+u2_p12 A Listen_Then point and say/images/
+u2_p12 A Listen_Then point and say/images/_preloader.gif
+u2_p12 A Listen_Then point and say/images/index02_atlas_NP_1.jpg
+u2_p12 A Listen_Then point and say/images/index_atlas_.png
+u2_p12 A Listen_Then point and say/images/index_atlas_1.png
+u2_p12 A Listen_Then point and say/images/index_atlas_NP_1.jpg
+u2_p12 A Listen_Then point and say/images/index_atlas_P_1.png
+u2_p12 A Listen_Then point and say/images/scene01_bg.png
+u2_p12 A Listen_Then point and say/images/vssver2.scc
+u2_p12 A Listen_Then point and say/index.fla
+u2_p12 A Listen_Then point and say/index.html
+u2_p12 A Listen_Then point and say/index.js
+u2_p12 A Listen_Then point and say/js/
+u2_p12 A Listen_Then point and say/js/HelpPanel.js
+u2_p12 A Listen_Then point and say/js/SoundEffect.js
+u2_p12 A Listen_Then point and say/js/common.js
+u2_p12 A Listen_Then point and say/js/jquery-1.10.2.min.js
+u2_p12 A Listen_Then point and say/js/jquery-3.7.1.min.js
+u2_p12 A Listen_Then point and say/js/vssver2.scc
+u2_p12 A Listen_Then point and say/libs/
+u2_p12 A Listen_Then point and say/libs/1.0.0/
+u2_p12 A Listen_Then point and say/libs/1.0.0/createjs.min.js
+u2_p12 A Listen_Then point and say/libs/1.0.0/vssver2.scc
+u2_p12 A Listen_Then point and say/libs/createjs-2015.11.26.min.js
+u2_p12 A Listen_Then point and say/libs/vssver2.scc
+u2_p12 A Listen_Then point and say/sounds/
+u2_p12 A Listen_Then point and say/sounds/button1.mp3
+u2_p12 A Listen_Then point and say/sounds/gdsound.mp3
+u2_p12 A Listen_Then point and say/sounds/letters01.mp3
+u2_p12 A Listen_Then point and say/sounds/letters01_1.mp3
+u2_p12 A Listen_Then point and say/sounds/letters01_2.mp3
+u2_p12 A Listen_Then point and say/sounds/vssver2.scc
+u2_p12 A Listen_Then point and say/source/
+u2_p12 A Listen_Then point and say/source/data.json
+u2_p12 A Listen_Then point and say/source/sound/
+u2_p12 A Listen_Then point and say/source/sound/dc/
+u2_p12 A Listen_Then point and say/source/sound/dc/a.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/climb a mountain.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/label1.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/label2.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/label3.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/label4.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/label5.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/null.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/play a game.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/row a boat.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/take a photo.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/tell a story.mp3
+u2_p12 A Listen_Then point and say/source/sound/dc/vssver2.scc
+u2_p12 A Listen_Then point and say/source/sound/gd/
+u2_p12 A Listen_Then point and say/source/sound/gd/climb a mountain.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/null.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/play a game.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/row a boat.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/take a photo.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/tell a story.mp3
+u2_p12 A Listen_Then point and say/source/sound/gd/vssver2.scc
+u2_p12 A Listen_Then point and say/source/sound/pd/
+u2_p12 A Listen_Then point and say/source/sound/pd/climb a mountain.mp3
+u2_p12 A Listen_Then point and say/source/sound/pd/play a game.mp3
+u2_p12 A Listen_Then point and say/source/sound/pd/row a boat.mp3
+u2_p12 A Listen_Then point and say/source/sound/pd/take a photo.mp3
+u2_p12 A Listen_Then point and say/source/sound/pd/tell a story.mp3
+u2_p12 A Listen_Then point and say/source/sound/pd/vssver2.scc
+u2_p12 A Listen_Then point and say/source/video/
+u2_p12 A Listen_Then point and say/source/video/apple.mp4
+u2_p12 A Listen_Then point and say/source/video/banana.mp4
+u2_p12 A Listen_Then point and say/source/video/carrot.mp4
+u2_p12 A Listen_Then point and say/source/video/fish.mp4
+u2_p12 A Listen_Then point and say/source/video/grape.mp4
+u2_p12 A Listen_Then point and say/source/video/juice.mp4
+u2_p12 A Listen_Then point and say/source/video/meat.mp4
+u2_p12 A Listen_Then point and say/source/video/milk.mp4
+u2_p12 A Listen_Then point and say/source/video/tomato.mp4
+u2_p12 A Listen_Then point and say/source/video/v1.mp4
+u2_p12 A Listen_Then point and say/source/video/vssver2.scc
+u2_p12 A Listen_Then point and say/source/video/word_v1.mp4
+u2_p12 A Listen_Then point and say/source/vssver2.scc
+u2_p12 A Listen_Then point and say/vssver2.scc
