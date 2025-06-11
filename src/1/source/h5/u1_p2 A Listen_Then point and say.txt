@@ -1,0 +1,92 @@
+u1_p2 A Listen_Then point and say/
+u1_p2 A Listen_Then point and say/css/
+u1_p2 A Listen_Then point and say/css/inputStyle.css
+u1_p2 A Listen_Then point and say/css/vssver2.scc
+u1_p2 A Listen_Then point and say/images/
+u1_p2 A Listen_Then point and say/images/Thumbs.db
+u1_p2 A Listen_Then point and say/images/_preloader.gif
+u1_p2 A Listen_Then point and say/images/index02_atlas_NP_1.jpg
+u1_p2 A Listen_Then point and say/images/index_atlas_.png
+u1_p2 A Listen_Then point and say/images/index_atlas_1.png
+u1_p2 A Listen_Then point and say/images/index_atlas_NP_1.jpg
+u1_p2 A Listen_Then point and say/images/index_atlas_P_1.png
+u1_p2 A Listen_Then point and say/images/scene01_bg.png
+u1_p2 A Listen_Then point and say/images/vssver2.scc
+u1_p2 A Listen_Then point and say/index.fla
+u1_p2 A Listen_Then point and say/index.html
+u1_p2 A Listen_Then point and say/index.js
+u1_p2 A Listen_Then point and say/js/
+u1_p2 A Listen_Then point and say/js/HelpPanel.js
+u1_p2 A Listen_Then point and say/js/SoundEffect.js
+u1_p2 A Listen_Then point and say/js/common.js
+u1_p2 A Listen_Then point and say/js/jquery-1.10.2.min.js
+u1_p2 A Listen_Then point and say/js/jquery-3.7.1.min.js
+u1_p2 A Listen_Then point and say/js/vssver2.scc
+u1_p2 A Listen_Then point and say/libs/
+u1_p2 A Listen_Then point and say/libs/1.0.0/
+u1_p2 A Listen_Then point and say/libs/1.0.0/createjs.min.js
+u1_p2 A Listen_Then point and say/libs/1.0.0/vssver2.scc
+u1_p2 A Listen_Then point and say/libs/createjs-2015.11.26.min.js
+u1_p2 A Listen_Then point and say/libs/vssver2.scc
+u1_p2 A Listen_Then point and say/sounds/
+u1_p2 A Listen_Then point and say/sounds/button1.mp3
+u1_p2 A Listen_Then point and say/sounds/gdsound.mp3
+u1_p2 A Listen_Then point and say/sounds/vssver2.scc
+u1_p2 A Listen_Then point and say/source/
+u1_p2 A Listen_Then point and say/source/data.json
+u1_p2 A Listen_Then point and say/source/sound/
+u1_p2 A Listen_Then point and say/source/sound/dc/
+u1_p2 A Listen_Then point and say/source/sound/dc/dance.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label0.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label1.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label2.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label3.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label4.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label5.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label6.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/label7.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/null.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/paint.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/play basketball.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/play football.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/play ping_pong.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/read.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/sing.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/swim.mp3
+u1_p2 A Listen_Then point and say/source/sound/dc/vssver2.scc
+u1_p2 A Listen_Then point and say/source/sound/gd/
+u1_p2 A Listen_Then point and say/source/sound/gd/dance.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/null.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/paint.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/play basketball.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/play football.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/play ping_pong.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/read.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/sing.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/swim.mp3
+u1_p2 A Listen_Then point and say/source/sound/gd/vssver2.scc
+u1_p2 A Listen_Then point and say/source/sound/pd/
+u1_p2 A Listen_Then point and say/source/sound/pd/dance.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/paint.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/play basketball.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/play football.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/play ping_pong.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/read.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/sing.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/swim.mp3
+u1_p2 A Listen_Then point and say/source/sound/pd/vssver2.scc
+u1_p2 A Listen_Then point and say/source/video/
+u1_p2 A Listen_Then point and say/source/video/apple.mp4
+u1_p2 A Listen_Then point and say/source/video/banana.mp4
+u1_p2 A Listen_Then point and say/source/video/carrot.mp4
+u1_p2 A Listen_Then point and say/source/video/fish.mp4
+u1_p2 A Listen_Then point and say/source/video/grape.mp4
+u1_p2 A Listen_Then point and say/source/video/juice.mp4
+u1_p2 A Listen_Then point and say/source/video/meat.mp4
+u1_p2 A Listen_Then point and say/source/video/milk.mp4
+u1_p2 A Listen_Then point and say/source/video/tomato.mp4
+u1_p2 A Listen_Then point and say/source/video/v1.mp4
+u1_p2 A Listen_Then point and say/source/video/vssver2.scc
+u1_p2 A Listen_Then point and say/source/video/word_v1.mp4
+u1_p2 A Listen_Then point and say/source/vssver2.scc
+u1_p2 A Listen_Then point and say/vssver2.scc
